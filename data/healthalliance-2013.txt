@@ -1,0 +1,89 @@
+ANXIETY
+amitriptyline (Elavil)
+bupropion (Wellbutrin)
+alprazolam (Xanax)
+buspirone (Buspar)
+10
+UTILIZATION
+MANAGEMENT
+OTHER COVERAGE
+NOTES
+diazepam (Valium)
+hydroxyzine (Atarax, Vistaril)
+lorazepam (Ativan)
+DEPRESSION
+bupropion ext-release (Wellbutrin SR, Wellbutrin XL)
+citalopram (Celexa) MDL
+clomipramine (Anafranil)
+desipramine (Norpramin)
+doxepin (Sinequan)
+escitalopram (Lexapro)
+fluoxetine (Prozac)
+imipramine hcl (Tofranil)
+mirtazapine (Remeron, Remeron SolTab)
+nortriptyline (Pamelor)
+paroxetine hcl (Paxil)
+paroxetine hcl ER (Paxil CR)
+PAXIL—paroxetine HCL, oral suspension
+phenelzine (Nardil)
+sertraline (Zoloft) MDL
+tranylcypromine (Parnate)
+trazodone (Desyrel)
+venlafaxine (Effexor)
+venlafaxine ER (Effexor XR)
+HYPERACTIVITY/NARCOLEPSY
+amphetamine/detroamphetamine (Adderall)
+dextroamphetamine
+dextroamphetamine ER (Dexedrine Spansule)
+METADATE CD—methylphenidate HCL
+METHYLIN—methylphenidate HCL
+methylphenidate ER capsules, tablets (Ritalin LA, Ritalin SR)
+methylphenidate tablets (Ritalin)
+OTHER CENTRAL NERVOUS SYSTEM DRUGS
+ARICEPT—donepezil hydrochloride
+bupropion ER (Zyban)
+CHANTIX—varenicline tartrate MDL
+disulfiram (Antabuse)
+donepezil (Aricept, Aricept ODT)
+EMSAM—selegiline
+11
+UTILIZATION
+MANAGEMENT
+OTHER COVERAGE
+NOTES
+EXELON—rivastigmine
+galantamine (Razadyne)
+galantamine ER (Razadyne ER)
+naltrexone (ReVia)
+NAMENDA—memantine
+NICOTROL INHALER—nicotine inhaler system MDL
+NICOTROL NS—nicotine, nasal spray MDL
+SARAFEM—fluoxetine ST
+PSYCHOTIC AND BIPOLAR DISORDER
+chlorpromazine (Thorazine)
+clozapine (Clozaril)
+EQUETRO—carbamazepine
+FAZACLO—clozapine
+fluphenazine (Prolixin)
+haloperidol (Haldol)
+LATUDA—lurasidone ST Tier 3
+LITHOBID—lithium carbonate
+lithium carbonate
+lithium carbonate ER (Lithobid, Eskalith CR)
+loxapine (Loxitane)
+olanzapine (Zyprexa, Zyprexa Zydis)
+perphenazine (Trilafon)
+prochlorperazine (Compazine)
+quetiapine (Seroquel)
+risperidone (Risperdal, Risperdal-M tablets)
+SEROQUEL XR—quetiapine fumarate ST
+thiothixene (Navane)
+trifluoperazine (Stelazine)
+ziprasidone (Geodon)
+SLEEP AIDS
+estazolam (Prosom)
+phenobarbital
+temazepam (Restoril)
+zaleplon (Sonata)
+zolpidem (Ambien)
+zolpidem ER (Ambien CR)
